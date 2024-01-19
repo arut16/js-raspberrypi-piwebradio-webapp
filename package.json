@@ -36,6 +36,12 @@
     "eslint-plugin-react": "^7.16.0",
     "eslint-plugin-react-hooks": "^1.7.0"
   },
+  "browserslist": {
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  }
   "author": "kevincastejon",
   "license": "ISC",
   "bugs": {
